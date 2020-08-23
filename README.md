@@ -8,4 +8,4 @@ The game consists of a doctor that has to kill incoming COVID-19 viruses by usin
 
 ## Purpose
 
-We thought about accompanying our website with a game to make the atmosphere even more fun and to leviate the weigh of the COVID-19 out break by allowing people to laugh about it and to have a good time at home, on their own.
+We thought about accompanying our website with a game to make the atmosphere even more fun and to alleviate the weight of the COVID-19 out break by allowing people to laugh about it and to have a good time at home, on their own.
