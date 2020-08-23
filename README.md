@@ -4,7 +4,7 @@ This is the game Healthcare Heroes. The game is intended to be embeded in the we
 
 ## Description
 
-The game consists of a doctor that has to kill incoming COVID-19 viruses by using a newly devolpped vaccine. The goal is to kill a prescribed amount of viruses (20) to win the game. Players have three lives and may otherwise die if they get infected by the virus.
+The game consists of a doctor that has to kill incoming COVID-19 viruses by using a newly devolped vaccine. The goal is to kill a prescribed amount of viruses (20) to win the game. Players have three lives and may otherwise die if they get infected by the virus.
 
 ## Purpose
 
